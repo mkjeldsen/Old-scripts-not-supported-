@@ -4,7 +4,8 @@
 Dette script er 100% opensource, det eneste krav jeg stiller er, at der ikke ændres i headeren:
 
 > Newsscript by Michael Kjeldsen aka exp
-> website: www.firewerx.dk
+> 
+> Website: www.firewerx.dk
 
 ## Om modulet:
 Systemet er opbygget omkring en række php-filer, der alle kan includeres - eneste umiddelbare krav er, at alle filer ligger i samme bibliotek. (Dette kan dog let ændres, med lidt snilde!)
