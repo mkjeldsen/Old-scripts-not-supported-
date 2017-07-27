@@ -1,7 +1,7 @@
 # PHP News - an open source php-script for publishing news
 
 ## Copyright notice:
-Dette script er 100% opensource, det eneste krav jeg stiller er, at der ikke ændres i headeren:
+Dette script er 100% open source, det eneste krav jeg stiller er, at der ikke ændres i headeren:
 
 > Newsscript by Michael Kjeldsen aka exp
 > 
@@ -24,4 +24,5 @@ news.sql|Databasestruktur til nyhedssystemet
 
 ## Om programmøren:
 Se www.firewerx.dk for yderligere detaljer.
+
 Kontakt: exp@firewerx.dk
